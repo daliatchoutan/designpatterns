@@ -1,0 +1,3 @@
+// proxy design pattern
+<?php
+?>
